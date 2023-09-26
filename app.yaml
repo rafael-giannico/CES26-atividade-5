@@ -1,0 +1,11 @@
+runtime: nodejs14  # Especifica a versão do Node.js
+
+instance_class: F2  # Especifica a classe de instância
+
+automatic_scaling:  # Configura o escalonamento automático
+  target_cpu_utilization: 0.65
+
+env_variables:  # Define variáveis de ambiente
+  PORT: "8080"
+
+entrypoint: npm start
