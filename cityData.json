@@ -1,0 +1,32 @@
+{
+    "Tremembé": {
+      "description": "Tremembé é uma cidade conhecida por suas belas praças e igrejas.",
+      "image": "/images/tremembe.jpg",
+      "population": "47000",
+      "mainEconomicActivity": "Indústria e Agricultura",
+      "size": "185.123 km²"
+    },
+    "Taubaté": {
+      "description": "Taubaté é uma cidade rica em cultura e história, sendo a terra natal de Monteiro Lobato.",
+      "image": "/images/taubate.jpg",
+      "population": "311853",
+      "mainEconomicActivity": "Indústria e Comércio",
+      "size": "625.3 km²"
+    },
+    "São José dos Campos": {
+      "description": "São José dos Campos é um importante polo industrial e de pesquisa no estado de São Paulo.",
+      "image": "/images/SJC.jpg",
+      "population": "729737",
+      "mainEconomicActivity": "Indústria Aeroespacial e Tecnologia",
+      "size": "1,099.6 km²"
+    },
+    "São Paulo": {
+      "description": "São Paulo é a maior cidade do Brasil, conhecida por sua imensa diversidade cultural e forte economia.",
+      "image": "/images/SP.jpg",
+      "population": "12325232",
+      "mainEconomicActivity": "Serviços, Comércio e Finanças",
+      "size": "1,521.11 km²"
+    }
+  }
+  
+  
